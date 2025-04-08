@@ -1,0 +1,165 @@
+{
+  "Squats": {
+    "description": "Stand with feet shoulder-width apart, chest up, core engaged. Lower your hips back and down as if sitting in a chair, keeping your back straight and knees behind your toes. Go as low as comfortable, then push through your heels to return to the start.",
+    "tips": [
+      "Keep your weight in your heels.",
+      "Don't let your knees cave inward.",
+      "Look straight ahead, not down."
+    ],
+    "image_placeholder": "images/squat.gif"
+  },
+  "Push-ups": {
+    "description": "Place hands slightly wider than shoulder-width apart on the floor (or wall/incline). Extend legs back (or rest on knees), forming a straight line from head to heels/knees. Lower your chest towards the floor by bending elbows, keeping your core tight. Push back up to the starting position.",
+    "tips": [
+      "Keep your body in a straight line (avoid sagging hips or piking up).",
+      "Elbows should point slightly back, not flared out wide.",
+      "Control the movement on the way down."
+    ],
+    "image_placeholder": "images/pushup.gif (example path)"
+  },
+  "Wall Push-ups": {
+    "description": "Stand facing a wall, about arm's length away. Place hands on the wall slightly wider than shoulder-width apart at chest height. Lean forward, bending your elbows to bring your chest closer to the wall, keeping your body straight. Push back to the starting position.",
+    "tips": [
+      "Easier variation to build strength for floor push-ups.",
+      "Keep your core engaged."
+    ],
+    "image_placeholder": "images/wall_push_up.gif"
+  },
+  "Incline Push-ups": {
+    "description": "Similar to a standard push-up, but place your hands on an elevated surface like a sturdy chair, table, or bench instead of the floor. This makes the exercise easier.",
+    "tips": [
+      "The higher the incline, the easier the push-up.",
+      "Maintain a straight body line."
+    ],
+    "image_placeholder": "images/incline_pushup.gif (example path)"
+  },
+  "Knee Push-ups": {
+    "description": "Perform a push-up as described above, but keep your knees on the floor instead of balancing on your toes. Maintain a straight line from your head to your knees.",
+    "tips": [
+      "Good progression between incline and full push-ups.",
+      "Keep hips aligned with your body."
+    ],
+    "image_placeholder": "images/knee_pushup.gif (example path)"
+  },
+  "Lunges": {
+    "description": "Step forward with one leg, lowering your hips until both knees are bent at approximately a 90-degree angle. Ensure your front knee is directly above your ankle and your back knee hovers just above the ground. Push off your front foot to return to the starting position. Alternate legs.",
+    "tips": [
+      "Keep your torso upright and core engaged.",
+      "Take a controlled step, don't rush.",
+      "Ensure front knee doesn't track past your toes."
+    ],
+    "image_placeholder": "images/lunge.gif (example path)"
+  },
+  "Reverse Lunges": {
+    "description": "Similar to a forward lunge, but step backward with one leg instead of forward. Lower your hips until both knees are bent at approximately 90 degrees. Push off the back foot to return to the start.",
+    "tips": [
+      "Can be easier on the knees for some people compared to forward lunges.",
+      "Maintain balance and control."
+    ],
+    "image_placeholder": "images/reverse_lunge.gif (example path)"
+  },
+  "Glute Bridges": {
+    "description": "Lie on your back with knees bent, feet flat on the floor hip-width apart, arms by your sides. Engage your glutes and lift your hips off the floor until your body forms a straight line from shoulders to knees. Hold briefly, then lower back down.",
+    "tips": [
+      "Squeeze your glutes at the top.",
+      "Avoid arching your lower back excessively."
+    ],
+    "image_placeholder": "images/glute_bridge.gif"
+  },
+  "Single Leg Glute Bridges": {
+    "description": "Perform a glute bridge as above, but extend one leg straight out. Lift your hips using the glute of the leg whose foot is on the floor. Keep your hips level.",
+    "tips": [
+      "Much more challenging for glute activation and stability.",
+      "Start with regular glute bridges first."
+    ],
+    "image_placeholder": "images/single_leg_glute_bridge.gif (example path)"
+  },
+  "Plank": {
+    "description": "Position yourself on your forearms and toes (or knees), keeping your body in a straight line from head to heels (or knees). Engage your core, glutes, and quads. Hold the position without letting your hips sag or rise too high.",
+    "tips": [
+      "Keep your neck in line with your spine (look down or slightly forward).",
+      "Breathe steadily.",
+      "If your back starts to hurt, stop or modify (e.g., knee plank)."
+    ],
+    "image_placeholder": "images/plank.gif"
+  },
+  "Bird-Dog": {
+    "description": "Start on all fours (hands under shoulders, knees under hips). Extend one arm straight forward and the opposite leg straight back simultaneously, keeping your back flat and core engaged. Hold briefly, then return to the start. Alternate sides.",
+    "tips": [
+      "Focus on stability and control, not height.",
+      "Avoid rotating your hips.",
+      "Keep your neck neutral."
+    ],
+    "image_placeholder": "images/bird_dog.gif (example path)"
+  },
+  "Crunches": {
+    "description": "Lie on your back with knees bent, feet flat on the floor. Place hands lightly behind your head or across your chest. Engage your abs and lift your head and shoulders off the floor. Lower back down slowly.",
+    "tips": [
+      "Don't pull on your neck.",
+      "Focus on contracting your abdominal muscles.",
+      "Keep your lower back pressed into the floor (or with a slight natural curve)."
+    ],
+    "image_placeholder": "images/crunch.gif (example path)"
+  },
+  "Leg Raises": {
+    "description": "Lie on your back with legs straight (or slightly bent if needed). Place hands under your lower back for support if necessary. Keeping legs together, lift them towards the ceiling until they are perpendicular to the floor (or as high as comfortable). Slowly lower back down without letting your lower back arch excessively.",
+    "tips": [
+      "Control the downward movement.",
+      "Engage your lower abs.",
+      "Bend knees to make it easier."
+    ],
+    "image_placeholder": "images/leg_raise.gif (example path)"
+  },
+  "Jumping Jacks": {
+    "description": "Start standing with feet together, arms at your sides. Jump while simultaneously spreading your legs wide and bringing your arms overhead. Jump again to return to the starting position.",
+    "tips": [
+      "Land softly on the balls of your feet.",
+      "Keep a steady rhythm.",
+      "Modify with 'step jacks' (stepping side to side instead of jumping) for lower impact."
+    ],
+    "image_placeholder": "images/jumping_jack.gif (example path)"
+  },
+  "High Knees": {
+    "description": "Run in place, bringing your knees up towards your chest as high as possible. Pump your arms in coordination.",
+    "tips": [
+      "Stay light on your feet.",
+      "Engage your core.",
+      "Can be done as a march for lower impact."
+    ],
+    "image_placeholder": "images/high_knees.gif (example path)"
+  },
+  "Butt Kicks": {
+    "description": "Jog in place, focusing on bringing your heels up towards your glutes with each step. Keep your knees pointing down.",
+    "tips": [
+      "Focus on hamstring contraction.",
+      "Keep your torso relatively upright."
+    ],
+    "image_placeholder": "images/butt_kicks.gif (example path)"
+  },
+  "Side Plank": {
+    "description": "Lie on your side with legs straight, propped up on one forearm directly below your shoulder. Lift your hips off the floor, creating a straight line from head to feet. Hold the position.",
+    "tips": [
+      "Keep your core tight and hips stacked.",
+      "Don't let your bottom hip sag.",
+      "Modify by bending your bottom knee and resting it on the floor."
+    ],
+    "image_placeholder": "images/side_plank.gif (example path)"
+  },
+   "Superman": {
+    "description": "Lie face down on the floor with arms and legs extended. Simultaneously lift your arms, chest, and legs off the floor, keeping your neck neutral. Engage your back muscles. Hold briefly, then lower back down.",
+    "tips": [
+      "Focus on squeezing your back and glute muscles.",
+      "Avoid looking up and straining your neck."
+    ],
+    "image_placeholder": "images/superman.gif (example path)"
+  },
+  "Flutter Kicks": {
+    "description": "Lie on your back, legs straight. Engage your core and lift your head and shoulders slightly off the floor (optional). Keeping legs straight, perform small, alternating up-and-down kicks (like swimming flutter kicks).",
+    "tips": [
+      "Keep your lower back pressed into the floor (place hands underneath if needed).",
+      "Point your toes.",
+      "Keep the movement controlled."
+    ],
+    "image_placeholder": "images/flutter_kicks.gif (example path)"
+  }
+}

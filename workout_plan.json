@@ -1,0 +1,116 @@
+[
+  [
+    [
+      { "dayNum": 1, "type": "Workout", "focus": "Full Body", "details": ["Squats: 2x8", "Wall Push-ups: 2x8", "Glute Bridges: 2x10", "Plank: 2x15-20s"], "notes": "Focus on slow, controlled movements for squats and push-ups. Keep your core engaged during the plank." },
+      { "dayNum": 2, "type": "Rest", "focus": "Active Recovery", "details": ["Light Walk"], "notes": "A gentle walk helps with blood flow and recovery. Avoid intense activity." },
+      { "dayNum": 3, "type": "Workout", "focus": "Full Body", "details": ["Lunges (Alt): 2x6/leg", "Incline Push-ups: 2x8", "Bird-Dog: 2x8/side", "Crunches: 2x10"], "notes": "For lunges, ensure your front knee doesn't go past your toes. Keep your back straight during Bird-Dog." },
+      { "dayNum": 4, "type": "Rest", "focus": "Rest Day", "details": [] },
+      { "dayNum": 5, "type": "Workout", "focus": "Cardio & Core", "details": ["Jumping Jacks: 3x(30s/30s)", "Plank: 2x20s", "Leg Raises: 2x10"], "notes": "Land softly during jumping jacks. Keep your lower back pressed down during leg raises." },
+      { "dayNum": 6, "type": "Rest", "focus": "Active Recovery", "details": ["Light Walk"] },
+      { "dayNum": 7, "type": "Rest", "focus": "Active Recovery", "details": ["Light Walk"] }
+    ],
+    [
+      { "dayNum": 1, "type": "Workout", "focus": "Full Body", "details": ["Squats: 2x10", "Wall Push-ups: 2x10", "Glute Bridges: 2x12", "Plank: 2x20-25s"], "notes": "Slight increase in reps. Maintain good form above all else." },
+      { "dayNum": 2, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 3, "type": "Workout", "focus": "Full Body", "details": ["Lunges (Alt): 2x8/leg", "Incline Push-ups: 2x10", "Bird-Dog: 2x10/side", "Crunches: 2x12"], "notes": "Focus on balance during lunges and bird-dog." },
+      { "dayNum": 4, "type": "Rest", "focus": "Rest Day", "details": [] },
+      { "dayNum": 5, "type": "Workout", "focus": "Cardio & Core", "details": ["Jumping Jacks: 4x(30s/30s)", "Plank: 2x25s", "Leg Raises: 2x12"], "notes": "Keep the intensity steady during jumping jacks. Engage core in plank." },
+      { "dayNum": 6, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 7, "type": "Rest", "focus": "Active Recovery", "details": [] }
+    ],
+    [
+      { "dayNum": 1, "type": "Workout", "focus": "Full Body", "details": ["Squats: 3x10", "Incline Push-ups: 3x8", "Glute Bridges: 3x12", "Plank: 3x25s"], "notes": "Moving to 3 sets now. Ensure adequate rest (60s) between sets." },
+      { "dayNum": 2, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 3, "type": "Workout", "focus": "Full Body", "details": ["Lunges (Alt): 3x8/leg", "Knee Push-ups (Opt): 3x6-8", "Bird-Dog: 3x10/side", "Crunches: 3x12"], "notes": "Try Knee Push-ups if Incline feels too easy, but prioritize form." },
+      { "dayNum": 4, "type": "Rest", "focus": "Rest Day", "details": [] },
+      { "dayNum": 5, "type": "Workout", "focus": "Cardio & Core", "details": ["High Knees: 4x(30s/30s)", "Plank: 3x25-30s", "Leg Raises: 3x12"], "notes": "Drive knees up during High Knees. Maintain plank form as duration increases." },
+      { "dayNum": 6, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 7, "type": "Rest", "focus": "Active Recovery", "details": [] }
+    ],
+    [
+      { "dayNum": 1, "type": "Workout", "focus": "Full Body", "details": ["Squats: 3x12", "Incline Push-ups: 3x10", "Glute Bridges: 3x15", "Plank: 3x30s"], "notes": "Focus on controlled movement, especially on the lowering phase of squats and push-ups." },
+      { "dayNum": 2, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 3, "type": "Workout", "focus": "Full Body", "details": ["Lunges (Alt): 3x10/leg", "Knee Push-ups: 3x8-10", "Bird-Dog: 3x12/side", "Crunches: 3x15"], "notes": "Ensure full range of motion on lunges. Keep core tight during bird-dog." },
+      { "dayNum": 4, "type": "Rest", "focus": "Rest Day", "details": [] },
+      { "dayNum": 5, "type": "Workout", "focus": "Cardio & Core", "details": ["High Knees: 5x(30s/30s)", "Plank: 3x30s", "Leg Raises: 3x15"], "notes": "Push the pace slightly on High Knees if comfortable. Hold plank steady." },
+      { "dayNum": 6, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 7, "type": "Rest", "focus": "Active Recovery", "details": [] }
+    ]
+  ],
+  [
+    [
+      { "dayNum": 1, "type": "Workout", "focus": "Full Body", "details": ["Squats: 3x12", "Knee Push-ups: 3x10", "Glute Bridges: 3x15", "Plank: 3x35s"], "notes": "Maintain consistency. If Knee Push-ups are easy, try a few reps on toes first." },
+      { "dayNum": 2, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 3, "type": "Workout", "focus": "Full Body", "details": ["Reverse Lunges: 3x10/leg", "Push-ups (Knee/Toe Attempt): 3x6-8", "Bird-Dog: 3x12/side", "Bicycle Crunches: 3x15/side"], "notes": "Reverse lunges challenge balance differently. Aim for quality push-up reps, even if few." },
+      { "dayNum": 4, "type": "Rest", "focus": "Rest Day", "details": [] },
+      { "dayNum": 5, "type": "Workout", "focus": "Cardio & Core", "details": ["Butt Kicks: 5x(35s/25s)", "Side Plank: 2x20s/side", "Leg Raises: 3x15"], "notes": "Focus on bringing heels towards glutes in Butt Kicks. Keep hips high in Side Plank." },
+      { "dayNum": 6, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 7, "type": "Rest", "focus": "Active Recovery", "details": [] }
+    ],
+    [
+      { "dayNum": 1, "type": "Workout", "focus": "Full Body", "details": ["Squats: 3x15", "Knee Push-ups: 3x12", "Glute Bridges: 3x18", "Plank: 3x40s"], "notes": "Reps increasing. Don't sacrifice form for quantity." },
+      { "dayNum": 2, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 3, "type": "Workout", "focus": "Full Body", "details": ["Reverse Lunges: 3x12/leg", "Push-ups (Knee/Toe): 3x8-10", "Bird-Dog: 3x15/side", "Bicycle Crunches: 3x18/side"], "notes": "Try to increase push-up reps on toes if possible. Keep Bicycle Crunches controlled." },
+      { "dayNum": 4, "type": "Rest", "focus": "Rest Day", "details": [] },
+      { "dayNum": 5, "type": "Workout", "focus": "Cardio & Core", "details": ["Butt Kicks: 6x(35s/25s)", "Side Plank: 2x25s/side", "Leg Raises: 3x18"], "notes": "Increase cardio duration slightly. Hold side planks strong." },
+      { "dayNum": 6, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 7, "type": "Rest", "focus": "Active Recovery", "details": [] }
+    ],
+    [
+      { "dayNum": 1, "type": "Workout", "focus": "Full Body", "details": ["Squat Jumps (opt) / Squats: 3x8 / 3x15", "Push-ups (Knee/Toe): 3x10", "Single Leg Glute Bridge (opt) / Glute Bridge: 3x10/leg / 3x18", "Plank: 3x45s"], "notes": "Optional explosive moves (Squat Jumps) or harder variations (Single Leg Bridge). Choose based on comfort and form." },
+      { "dayNum": 2, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 3, "type": "Workout", "focus": "Full Body", "details": ["Walking Lunges (opt) / Reverse Lunges: 3x10 steps/leg / 3x12", "Push-ups (Knee/Toe): 3x10-12", "Superman: 3x12", "Bicycle Crunches: 3x20/side"], "notes": "Walking lunges add movement challenge. Superman strengthens the back - keep neck neutral." },
+      { "dayNum": 4, "type": "Rest", "focus": "Rest Day", "details": [] },
+      { "dayNum": 5, "type": "Workout", "focus": "Cardio & Core", "details": ["Jumping Jacks: 6x(40s/20s)", "Side Plank: 3x25s/side", "Flutter Kicks: 3x30s"], "notes": "Increased work time, shorter rest in cardio. Flutter kicks challenge lower abs - keep back flat." },
+      { "dayNum": 6, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 7, "type": "Rest", "focus": "Active Recovery", "details": [] }
+    ],
+    [
+      { "dayNum": 1, "type": "Workout", "focus": "Full Body", "details": ["Squat Jumps / Squats: 3x10 / 3x15", "Push-ups (Knee/Toe): 3x12", "Single Leg Glute Bridge / Glute Bridge: 3x12/leg / 3x20", "Plank: 3x50s"], "notes": "Pushing duration and reps. Focus on quality, especially towards the end of sets." },
+      { "dayNum": 2, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 3, "type": "Workout", "focus": "Full Body", "details": ["Walking Lunges / Reverse Lunges: 3x12 steps/leg / 3x12", "Push-ups (Knee/Toe): 3x max reps", "Superman: 3x15", "Bicycle Crunches: 3x20-25/side"], "notes": "'Max reps' means as many as possible WITH GOOD FORM. Stop when form breaks down." },
+      { "dayNum": 4, "type": "Rest", "focus": "Rest Day", "details": [] },
+      { "dayNum": 5, "type": "Workout", "focus": "Cardio & Core", "details": ["Jumping Jacks: 7x(40s/20s)", "Side Plank: 3x30s/side", "Flutter Kicks: 3x40s"], "notes": "Longer holds and work intervals. Maintain core stability." },
+      { "dayNum": 6, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 7, "type": "Rest", "focus": "Active Recovery", "details": [] }
+    ]
+  ],
+  [
+    [
+      { "dayNum": 1, "type": "Workout", "focus": "Full Body", "details": ["Squats: 3x15-18", "Push-ups (try toes): 3x max reps", "Single Leg Glute Bridge: 3x12-15/leg", "Plank: 3x55s"], "notes": "Entering the final month! Challenge yourself on push-ups and single leg bridges." },
+      { "dayNum": 2, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 3, "type": "Workout", "focus": "Full Body", "details": ["Lunges (Walk/Rev): 3x12-15/leg", "Decline Push-ups (opt) / Push-ups: 3x6-8 / max reps", "Superman: 3x15", "Russian Twists (opt): 3x15/side"], "notes": "Optional Decline Push-ups increase difficulty. Russian twists target obliques - keep movement controlled." },
+      { "dayNum": 4, "type": "Rest", "focus": "Rest Day", "details": [] },
+      { "dayNum": 5, "type": "Workout", "focus": "Cardio & Core", "details": ["High Knees/Butt Kicks Combo: 7x(45s/15s)", "Plank Jacks (opt): 3x15", "Side Plank Dips (opt): 3x10/side"], "notes": "Shorter rest in cardio interval. Plank Jacks add cardio to core work. Side Plank Dips target obliques." },
+      { "dayNum": 6, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 7, "type": "Rest", "focus": "Active Recovery", "details": [] }
+    ],
+    [
+      { "dayNum": 1, "type": "Workout", "focus": "Full Body", "details": ["Squats: 3x18-20", "Push-ups: 3x max reps", "Single Leg Glute Bridge: 3x15/leg", "Plank: 3x60s"], "notes": "Aim for the minute plank! Keep form solid throughout." },
+      { "dayNum": 2, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 3, "type": "Workout", "focus": "Full Body", "details": ["Lunges: 3x15/leg", "Decline Push-ups / Push-ups: 3x max reps", "Superman: 3x15-18", "Russian Twists: 3x15-20/side"], "notes": "Push the reps on max rep exercises while maintaining good technique." },
+      { "dayNum": 4, "type": "Rest", "focus": "Rest Day", "details": [] },
+      { "dayNum": 5, "type": "Workout", "focus": "Cardio & Core", "details": ["Burpees (mod opt) / High Knees/Butt Kicks: 3x(30s/30s)", "Plank Jacks: 3x15-20", "Side Plank Dips: 3x12/side"], "notes": "Try modified burpees (no push-up/jump initially) if comfortable. Increase Plank Jack reps." },
+      { "dayNum": 6, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 7, "type": "Rest", "focus": "Active Recovery", "details": [] }
+    ],
+    [
+      { "dayNum": 1, "type": "Workout", "focus": "Full Body", "details": ["Squat Jumps / Squats: 3x12 / 20", "Push-ups: 3x max reps", "Single Leg Glute Bridge: 3x15+/leg", "Plank w/ Leg Lift: 3x45s"], "notes": "Plank with leg lift increases core challenge significantly - keep hips stable." },
+      { "dayNum": 2, "type": "Optional", "focus": "Light Cardio/Core", "details": ["e.g., Day 5 Wk 1-4"], "notes": "Add this 4th day if you feel recovered and want extra work." },
+      { "dayNum": 3, "type": "Workout", "focus": "Full Body", "details": ["Lunge Jumps (opt) / Lunges: 3x10/leg / 15/leg", "Push-ups (Decline/other): 3x max reps", "Superman: 3x18-20", "V-Ups / Tuck Crunches: 3x10-12"], "notes": "Lunge jumps add power. V-ups are challenging - Tuck Crunches are a good alternative." },
+      { "dayNum": 4, "type": "Rest", "focus": "Rest Day", "details": ["(if no Day 2 workout)"] },
+      { "dayNum": 5, "type": "Workout", "focus": "Cardio & Core", "details": ["Burpees (mod/full opt) / Jacks: 4x(30s/30s)", "Mountain Climbers: 3x30s", "Side Plank Dips: 3x12-15/side"], "notes": "Mountain climbers add intensity. Increase side plank dip reps." },
+      { "dayNum": 6, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 7, "type": "Rest", "focus": "Active Recovery", "details": [] }
+    ],
+    [
+      { "dayNum": 1, "type": "Workout", "focus": "Full Body", "details": ["Squat Jumps / Squats: 3x12-15 / 20+", "Push-ups: 3x max reps", "Single Leg Glute Bridge: 3x max reps/leg", "Plank w/ Leg Lift: 3x60s"], "notes": "Final week push! Maximize quality reps and hold times. You've built a great foundation." },
+      { "dayNum": 2, "type": "Optional", "focus": "Light Cardio/Core", "details": [] },
+      { "dayNum": 3, "type": "Workout", "focus": "Full Body", "details": ["Lunge Jumps / Lunges: 3x12/leg / 15+/leg", "Push-ups: 3x max reps", "Superman: 3x20", "V-Ups / Tuck Crunches: 3x12-15"], "notes": "Finish strong on these challenging exercises." },
+      { "dayNum": 4, "type": "Rest", "focus": "Rest Day", "details": ["(if no Day 2 workout)"] },
+      { "dayNum": 5, "type": "Workout", "focus": "Cardio & Core", "details": ["Burpees (mod/full): 5x(30s/30s) / Jacks", "Mountain Climbers: 3x40s", "Side Plank Dips: 3x15/side"], "notes": "Final cardio & core blast. Give it your best effort!" },
+      { "dayNum": 6, "type": "Rest", "focus": "Active Recovery", "details": [] },
+      { "dayNum": 7, "type": "Rest", "focus": "Active Recovery", "details": ["Congratulations on completing the 3-month program!"] }
+    ]
+  ]
+]
